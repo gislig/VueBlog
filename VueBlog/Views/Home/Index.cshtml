@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<div id="app">
+    <h3>{{ getFullName(firstName, lastName).name }}</h3>
+</div>
+
+<div id="buttonapp">
+    <button v-on:click="clickedButton">Click here!</button>
+</div>

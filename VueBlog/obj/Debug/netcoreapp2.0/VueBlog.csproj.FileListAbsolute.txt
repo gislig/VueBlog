@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\VueBlog\VueBlog\bin\Debug\netcoreapp2.0\VueBlog.deps.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\VueBlog\VueBlog\bin\Debug\netcoreapp2.0\VueBlog.runtimeconfig.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\VueBlog\VueBlog\bin\Debug\netcoreapp2.0\VueBlog.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\VueBlog\VueBlog\bin\Debug\netcoreapp2.0\VueBlog.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\VueBlog\VueBlog\obj\Debug\netcoreapp2.0\VueBlog.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\VueBlog\VueBlog\obj\Debug\netcoreapp2.0\VueBlog.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\VueBlog\VueBlog\obj\Debug\netcoreapp2.0\VueBlog.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\VueBlog\VueBlog\bin\Debug\netcoreapp2.0\VueBlog.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\VueBlog\VueBlog\obj\Debug\netcoreapp2.0\VueBlog.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\VueBlog\VueBlog\obj\Debug\netcoreapp2.0\VueBlog.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\VueBlog\VueBlog\obj\Debug\netcoreapp2.0\VueBlog.pdb
